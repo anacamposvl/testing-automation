@@ -5,6 +5,6 @@ public class Main {
         System.out.printf("Testing Automation\n");
         System.out.printf("Adios");
 
-
+        int edad = 26; 
         }
     }
