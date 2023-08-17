@@ -1,4 +1,4 @@
-package com.valen.ejercicioHerencia;
+package com.valen.Herencia;
 
 public class main {
     public static void main(String[] args) {

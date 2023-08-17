@@ -1,4 +1,4 @@
-package com.valen.ejercicioHerencia;
+package com.valen.Herencia;
 
 public class Vehiculo {
     private String marca;

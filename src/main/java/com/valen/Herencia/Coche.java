@@ -1,4 +1,4 @@
-package com.valen.ejercicioHerencia;
+package com.valen.Herencia;
 
 public class Coche extends Vehiculo{
     private int cilindrado;
